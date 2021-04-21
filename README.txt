@@ -8,6 +8,7 @@ que cumplen con cierta condicion, y al final guarda los datos de los pokemones q
 
 COMPILACION:
 
+[SOLO CORRE DE MANERA CORRECTA EN UNA TERMINAL DE LINUX QUE TENGA GCC, MAKEFILE Y VALGRIND INSTALADOS]
 
 El trabajo se compila de la siguiente forma:
 
